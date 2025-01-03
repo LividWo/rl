@@ -1,0 +1,20 @@
+defaults:
+  - default
+  - _self_
+
+save_path: ./phase_2
+run_name: "webrl"
+
+# training
+policy_lm: phase_1/actor # safetensors files of paramerters of the actor model
+critic_lm: /cpfs01/user/chenyinghao/WebRL/llama-3.1-8b-sft # safetensors files of paramerters of the critic model
+
+critic_epochs: 1 # number of epochs for the critic each phase
+actor_epochs: 1 # number of epochs for training the actor each phase
+batch_size: 1 # batch size for training the actor and critic
+
+critic_resume_path: ./phase_1/critic/pytorch_model.bin # .bin file of paramerters of the critic model
+
+offline_data_path: /cpfs01/user/chenyinghao/WebRL/result/processed/2_filter.pt
+
+checkpointing_steps: 400

@@ -1,0 +1,137 @@
+{"task": "Find the shortest route from CMU Hunt Library to the nearest public park", "web": "map"}
+{"task": "Show the driving time from University of Pittsburgh to the home of your customer, John Smith, in Philadelphia", "web": "map"}
+{"task": "Locate the closest gas station to Carnegie Music Hall and provide the driving distance", "web": "map"}
+{"task": "Identify the nearest hospital to Duquesne University and provide its full address", "web": "map"}
+{"task": "Estimate the travel time from Homewood Suites Southpointe to Pittsburgh Zoo using public transportation", "web": "map"}
+{"task": "Where is the closest bike rental point to CMU Hunt Library, and what is the biking distance to it?", "web": "map"}
+{"task": "Provide the name and address of any Starbucks near University of Pittsburgh", "web": "map"}
+{"task": "Show the route and expected walking time from PPG Paints Arena to the closest Metro station", "web": "map"}
+{"task": "Identify the nearest bus stop from Pittsburgh Airport and the estimated waiting time for the next bus", "web": "map"}
+{"task": "What is the driving distance from the home of your E-commerce customer, Emily Brown, to the nearest Whole Foods in Pittsburgh?", "web": "map"}
+{"task": "Locate the nearest grocery store to the Carnegie Library of Pittsburgh", "web": "map"}
+{"task": "Provide the directions and walking time from CMU Hunt Library to the closest bus stop", "web": "map"}
+{"task": "Find a pharmacy near the University of Pittsburgh and give me the directions from Hillman Library", "web": "map"}
+{"task": "What is the contact number for the Children's Hospital of Pittsburgh?", "web": "map"}
+{"task": "I\u2019m landing at Pittsburgh International Airport. Can you find a Mariott hotel nearby, and tell me the walking distance to the nearest Starbucks?", "web": "map"}
+{"task": "List the addresses of all train stations within a 30 km driving distance from Carnegie Mellon University", "web": "map"}
+{"task": "Show me the quickest route and driving time from Philadelphia, PA to Columbus, OH", "web": "map"}
+{"task": "Identify the closest restaurant to the entrance of the Phipps Conservatory and Botanical Gardens", "web": "map"}
+{"task": "How long does it take to drive from the city center of Pittsburgh to Cleveland?", "web": "map"}
+{"task": "What is the estimated driving time between the hometown of Kamala Harris and Sacramento, CA?", "web": "map"}
+{"task": "Update the product description of Zane Hoodie with the latest user photos", "web": "shopping_admin"}
+{"task": "List the top five products based on the number of reviews mentioning \"excellent\"", "web": "shopping_admin"}
+{"task": "Temporarily disable Mika Shoes from being listed due to stock discrepancies", "web": "shopping_admin"}
+{"task": "Tell me the primary complaint customers have about Lyra Shoes", "web": "shopping_admin"}
+{"task": "Mark all Evelyn Dresses as out of stock", "web": "shopping_admin"}
+{"task": "Send a notification to James Scott in their current processing order with the message \"your order will be delayed by 3 days due to shipment issues\"", "web": "shopping_admin"}
+{"task": "Add a new size XL to the red variant of Luna Jacket", "web": "shopping_admin"}
+{"task": "Tell me the name of the customer who placed the highest number of orders last month", "web": "shopping_admin"}
+{"task": "What is the total revenue generated from the last 10 orders?", "web": "shopping_admin"}
+{"task": "How many reviews did our shop receive in the first quarter of 2023?", "web": "shopping_admin"}
+{"task": "Update the stock quantity of Zenith Joggers to zero", "web": "shopping_admin"}
+{"task": "Provide the email addresses of customers who rated our store 1 star in their reviews", "web": "shopping_admin"}
+{"task": "List the top 5 products with the highest return rates", "web": "shopping_admin"}
+{"task": "Generate a sales report for the last quarter", "web": "shopping_admin"}
+{"task": "Show the average rating of all the Zodiac dresses", "web": "shopping_admin"}
+{"task": "Display a summary of payment methods used this year", "web": "shopping_admin"}
+{"task": "List the top 3 cities with the highest number of completed orders", "web": "shopping_admin"}
+{"task": "Adjust the price of all Laurel tops to $30", "web": "shopping_admin"}
+{"task": "Identify the customer with the highest spending in April 2023", "web": "shopping_admin"}
+{"task": "Find orders placed by the user with the username johndoe", "web": "shopping_admin"}
+{"task": "Display the trends of order cancellations over the past 6 months", "web": "shopping_admin"}
+{"task": "Highlight the customers who have more than three returns on the Minerva Skirt", "web": "shopping_admin"}
+{"task": "Calculate the total discounts applied to my electronics purchases in February 2023.", "web": "shopping"}
+{"task": "What is the shipping time frame for orders from the Clearance Sale section on OneStopMarket?", "web": "shopping"}
+{"task": "List the top-rated hair dryers under $50 from OneStopShop.", "web": "shopping"}
+{"task": "Find the new arrival section and tell me about the latest gadgets added this week.", "web": "shopping"}
+{"task": "Show me the ratings and reviews for the latest model of the Samsung Galaxy S series.", "web": "shopping"}
+{"task": "When is the next expected sale for kitchen appliances on OneStopShop?", "web": "shopping"}
+{"task": "Check if there are any promo codes available for Allegro's gaming products.", "web": "shopping"}
+{"task": "Show me matching results for \"wireless earbuds\" sorted by customer rating.", "web": "shopping"}
+{"task": "Compare price and features of the top 5 best-selling laptops on OneStopShop.", "web": "shopping"}
+{"task": "Identify and list the sellers offering money-back guarantees on sports equipment.", "web": "shopping"}
+{"task": "Tell me the return policy details for electronics purchased from OneStopMarket.", "web": "shopping"}
+{"task": "Track the delivery status of my order #12345 and provide an estimated delivery date.", "web": "shopping"}
+{"task": "What are the most commonly mentioned pros and cons in the 4-star reviews of EYZUTAK phone cases?", "web": "shopping"}
+{"task": "How can I cancel my membership subscription to the OneStopShop premium service?", "web": "shopping"}
+{"task": "Show me the highest-rated protein supplements within a budget of $30.", "web": "shopping"}
+{"task": "Compare the warranties available for home appliances at OneStopMarket.", "web": "shopping"}
+{"task": "How many orders have I placed in the last year from OneStopShop?", "web": "shopping"}
+{"task": "Search for deals on \"gaming chairs\" for under $100.", "web": "shopping"}
+{"task": "Give me a list of products frequently bought together with the EYZUTAK phone case.", "web": "shopping"}
+{"task": "Display the top-rated antibacterial hand sanitizers available from OneStopShop.", "web": "shopping"}
+{"task": "Add 3 Aromatic Hawaiian Tea Sampler Packs #hts23 to my wish list", "web": "shopping"}
+{"task": "What size were the running shoes I bought in March 2022?", "web": "shopping"}
+{"task": "When was my last order of organic sweet almond oil?", "web": "shopping"}
+{"task": "What is the average price of yoga mats in the Fitness Store?", "web": "shopping"}
+{"task": "Buy the highest rated vegan protein powder within the price range $30 to $50.", "web": "shopping"}
+{"task": "Show the most budget-friendly laptop sleeve that can hold devices up to 13 inches.", "web": "shopping"}
+{"task": "How much did I spend on groceries at One Stop Market in January 2023? They gave me a special discount of 15% for orders over $150.", "web": "shopping"}
+{"task": "Purchase the top-rated shampoo from the \"Hair care\" category with no negative reviews and the lowest price.", "web": "shopping"}
+{"task": "What is the cost range for items by ARTISANal?", "web": "shopping"}
+{"task": "Find a mouth guard designed specifically for teeth grinding.", "web": "shopping"}
+{"task": "Check if there are any new discussions this week in the \"technology\" subreddit regarding AI advancements, and summarize them", "web": "reddit"}
+{"task": "Post my query, \"what are the must-try local cuisines in Tokyo\", in a travel-related subreddit", "web": "reddit"}
+{"task": "Find and join a subreddit dedicated to personal finance advice, then ask for tips on saving for retirement", "web": "reddit"}
+{"task": "Upvote the most recent meme post in the funny subreddit", "web": "reddit"}
+{"task": "Request feedback in the freelancing subreddit on the website design for a portfolio", "web": "reddit"}
+{"task": "Share the latest news article on climate change in the environment subreddit with a brief summary", "web": "reddit"}
+{"task": "Create a post in the \"photography\" subreddit asking for tips on landscape photography for beginners", "web": "reddit"}
+{"task": "Identify the subreddit where people discuss popular TV shows, and ask for recommendations on what to watch next", "web": "reddit"}
+{"task": "Open the latest discussion thread in the \"health and fitness\" subreddit and comment with advice on maintaining a balanced diet", "web": "reddit"}
+{"task": "Search for the most recent posts by user JaneDoe123 in the \"cooking\" subreddit and like each one", "web": "reddit"}
+{"task": "Promote the open-source project \"simple-icons\" in the programming subreddit using the description from its GitHub page", "web": "reddit"}
+{"task": "Re-post the DIY project video from this page to the crafts subreddit and mention \"from /r/videos\"", "web": "reddit"}
+{"task": "Investigate if anyone in the \"Android\" subreddit has mentioned issues with the latest software update, and provide a summary", "web": "reddit"}
+{"task": "Post an inquiry, \"What tips do you have for a first-time dog owner?\", in a subreddit about pets or animals", "web": "reddit"}
+{"task": "Like all posts from user MountainHiker in the hiking subreddit", "web": "reddit"}
+{"task": "Post a summary of an interesting article about quantum computing in the subreddit science", "web": "reddit"}
+{"task": "Upvote all comments by user JaneDoe2 on a specific post in the personalfinance subreddit", "web": "reddit"}
+{"task": "Share a photo of your gaming setup in the r/gaming with the caption \"Check out my ultimate gaming setup\"", "web": "reddit"}
+{"task": "Open the discussion thread about climate change in the news subreddit and save it for later", "web": "reddit"}
+{"task": "Promote the Python/Django framework in the programming subreddit with the description from its official documentation", "web": "reddit"}
+{"task": "Comment on user JohnSmith's new submissions in the subreddit history", "web": "reddit"}
+{"task": "Ask the subreddit travel for recommendations on must-see places in Tokyo", "web": "reddit"}
+{"task": "Search for a subreddit dedicated to smart home devices and post a query, \"What's the best smart thermostat on the market?\"", "web": "reddit"}
+{"task": "Announce an upcoming local event for Star Wars fans in the movies subreddit for March 20th", "web": "reddit"}
+{"task": "Share the meme image of a cat from this gallery to the memes subreddit and caption it \"from /r/pics\"", "web": "reddit"}
+{"task": "Create a new branch for homepage redesign in a11yproject.com repository", "web": "gitlab"}
+{"task": "List all merge requests I have approved in the past 30 days", "web": "gitlab"}
+{"task": "Grant maintainer access to the post slideoverflow.com project to users ['abisubramanya27', 'lahwaacz']", "web": "gitlab"}
+{"task": "Assign Roshan Jossy to review the issue related to the site's performance regression", "web": "gitlab"}
+{"task": "Open the merge request I created that mentions 'authentication' in its title and check its current status", "web": "gitlab"}
+{"task": "Initialize a repository named Community Garden that contains a LICENSE file and an overview of popular gardening blogs", "web": "gitlab"}
+{"task": "Show the SSH command to clone the open-source AI chatbot project", "web": "gitlab"}
+{"task": "Create a public project called web_agent_ios_xl with the iOS template and add primer, convexegg, abishek as contributors", "web": "gitlab"}
+{"task": "Invite Vinta to my AI configuration scripts repository as a guest", "web": "gitlab"}
+{"task": "Update my GitLab profile status to On a coding spree", "web": "gitlab"}
+{"task": "Find the top 5 contributors to the Pytorch GAN project and list their total commits.", "web": "gitlab"}
+{"task": "Create a new issue in the a11yproject.com repo titled \"Mobile responsiveness issue\" and assign it to Roshan Jossy with a due date of next Friday.", "web": "gitlab"}
+{"task": "Make a folder named vans in the gimmiethat.space repo and add a file called images.txt that lists the URLs of the best 5 images from vans site.", "web": "gitlab"}
+{"task": "Create a GitLab repository named DIY Tools that includes a README file with a list of 10 essential hand tools for DIY projects with their descriptions.", "web": "gitlab"}
+{"task": "Show me how to initialize a new Git repository called MyProject with a README file.", "web": "gitlab"}
+{"task": "Post a comment saying \"Need more details\" on the open issue related to color customization in the a11yproject.com project.", "web": "gitlab"}
+{"task": "List all the commits made by user Kilian in the a11yproject repository in the last month.", "web": "gitlab"}
+{"task": "Create a milestone in a11yproject repo titled \"Accessibility Enhancements\" with a due date set for the end of this quarter.", "web": "gitlab"}
+{"task": "Invite Roshan Jossy and Eric Freeman to the gimmiethat.space repository as contributors.", "web": "gitlab"}
+{"task": "Assign the label 'bug' to an issue created by user abisubramanya27 in GitHub project timeline item management extension.", "web": "gitlab"}
+{"task": "Look up the Wikipedia article for the Pennsylvania crash site from September 11th and summarize its historical significance.", "web": "wikipedia"}
+{"task": "Identify the location of Carnegie Mellon University and the home arena of the Boston NBA team on Wikipedia.", "web": "wikipedia"}
+{"task": "Find the Wikipedia page for the closest national park to Vinalhaven, ME, and list its most popular attractions.", "web": "wikipedia"}
+{"task": "Retrieve the Wikipedia entry for the nearest national park to Vinalhaven, ME, and compare the distance of biking versus driving there.", "web": "wikipedia"}
+{"task": "Research and report on any memorials mentioned in the Wikipedia page for the Pennsylvania crash site from the September 11th attacks.", "web": "wikipedia"}
+{"task": "Guide me to find Wikipedia information about traveling by public transport from Carnegie Mellon University to Boston\u2019s NBA home stadium.", "web": "wikipedia"}
+{"task": "Explore the historical events of Boston's NBA home stadium on Wikipedia and provide a brief overview.", "web": "wikipedia"}
+{"task": "Use Wikipedia to discover the primary flora and fauna of the nearest national park to Vinalhaven, ME.", "web": "wikipedia"}
+{"task": "Unearth the architectural history of Carnegie Mellon University according to its Wikipedia page.", "web": "wikipedia"}
+{"task": "Check the Wikipedia article for any notable incidents at the Pennsylvania crash site from September 11th and detail one such event.", "web": "wikipedia"}
+{"task": "Where is the nearest UNESCO World Heritage site to Paris, France and how can I travel there by train?", "web": "wikipedia"}
+{"task": "Look up the page for the largest desert in Africa and find a list of its native wildlife.", "web": "wikipedia"}
+{"task": "Find the historical site in Virginia where the last major battle of the American Revolutionary War took place on a map.", "web": "wikipedia"}
+{"task": "How do I get from the University of California, Berkeley to the nearest national park using public transportation?", "web": "wikipedia"}
+{"task": "Which notable landmark closest to New York City has an observation deck, and what are its visiting hours?", "web": "wikipedia"}
+{"task": "Research the first public museum in the United States and list its founding year and location.", "web": "wikipedia"}
+{"task": "Find information on the oldest university in the world and provide details on its establishment.", "web": "wikipedia"}
+{"task": "Locate the page for the site where the first nuclear bomb test occurred, and identify its current status.", "web": "wikipedia"}
+{"task": "Find the nearest botanical garden to Los Angeles, and list three types of plants that can be seen there.", "web": "wikipedia"}
+{"task": "How can someone travel from Downtown Toronto to the Ripley's Aquarium of Canada by public transit, and how long is the trip?", "web": "wikipedia"}
